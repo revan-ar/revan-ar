@@ -17,3 +17,7 @@ I'm Revan, a Web & Mobile App Developer. I'm also learning Cyber Security so tha
 - Codeigniter
 - Bootstrap
 - Wordpress
+
+### My Tools & Bot:
+- https://tools.revanar.dev/gpstrack.php
+- https://top.gg/bot/757160170576150610
