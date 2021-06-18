@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, Welcome to My Profile 👋 
 
-<!--
-**revan-ar/revan-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Revan, a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
 
-Here are some ideas to get you started:
+![Revan's Github Stats](https://github-readme-stats.vercel.app/api?username=revan-ar&show_icons=true&theme=midnight-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills:
+- HTML
+- CSS
+- PHP
+- Jquery
+- React Native
+- NodeJS
+
+### CMS or Framework:
+- Laravel
+- Codeigniter
+- Bootstrap
+- Wordpress
