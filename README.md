@@ -1,23 +1,10 @@
-### Hi, Welcome to My Profile 👋 
+### About
 
-I'm Revan, a Web & Mobile App Developer. I'm also learning Cyber Security so that avoid hacking or theft of important information.
+Non Degree People Who Love She, Coffee, and Cyber Security.
+
+Buy Me a Coffee:
+https://www.buymeacoffee.com/revan.ar
+
+
 
 ![Revan's Github Stats](https://github-readme-stats.vercel.app/api?username=revan-ar&show_icons=true&theme=midnight-purple)
-
-### My Skills:
-- HTML
-- CSS
-- PHP
-- Jquery
-- React Native
-- NodeJS
-
-### CMS or Framework:
-- Laravel
-- Codeigniter
-- Bootstrap
-- Wordpress
-
-### My Tools & Bot:
-- https://tools.revanar.dev/gpstrack.php
-- https://top.gg/bot/757160170576150610
